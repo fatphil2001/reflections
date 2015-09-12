@@ -10,3 +10,6 @@ By using diff to see what's been changed between the working directory / staging
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When working on experimental or risky features.
+
+How do the diagrams help you visualize the branch structure?
+By being able to see the history and creation of branches, as well as commits that are not on a branch (detached head state)
