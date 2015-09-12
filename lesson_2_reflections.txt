@@ -13,3 +13,6 @@ When working on experimental or risky features.
 
 How do the diagrams help you visualize the branch structure?
 By being able to see the history and creation of branches, as well as commits that are not on a branch (detached head state)
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A common head is created, containing all of the changes of each branch up until now.  It's represented as 2 nodes joining to form one common state as that's what it is!
