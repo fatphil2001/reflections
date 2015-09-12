@@ -16,3 +16,6 @@ By being able to see the history and creation of branches, as well as commits th
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A common head is created, containing all of the changes of each branch up until now.  It's represented as 2 nodes joining to form one common state as that's what it is!
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Any non-conflicting merges are done for you!  Any conflicts are indicated.
